@@ -6,7 +6,7 @@
 
 - Każda zmienna musi mieć określony typ np. int, albo String.
 
-- Jeżeli deklarację zmiennej poprzedzimy słowem final, to raz zainicjalizowana nie może być zmodyfikowana - odgrywa rolę stałej.
+- Jeżeli deklarację zmiennej poprzedzimy słowem final, to raz zainicjalizowana nie może być zmodyfikowana.
 
 - W klasie mogą się znajdować pola, konstruktor(y) i metody.
 
